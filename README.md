@@ -38,7 +38,7 @@
 <img align="right" alt="Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-Nasnodkar&theme=dark&hide_border=true" />
 
 [twitter]: https://twitter.com/Clever_Idiot_17
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/the_clever_idiot_17/
 [reddit]: https://www.reddit.com/user/CooLDuDE-6_9
 [vscode]: https://code.visualstudio.com/
 [python3]: https://www.python.org/downloads/
