@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I’m currently working on a full stack social media application using React and Django<br>🎓 I’m in Senior year pursuing CSE at BITS Pilani
+👨🏻‍💻 I'm a Member, Tech at D.E. Shaw & Co. !!
 
 
 ## 🌐 Socials:
