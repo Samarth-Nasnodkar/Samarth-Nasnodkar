@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I'm a Member, Tech at D.E. Shaw & Co. !!
+👨🏻‍💻 I'm a Software Engineer at D.E. Shaw & Co. !!
 
 
 ## 🌐 Socials:
